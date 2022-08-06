@@ -1,0 +1,8 @@
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/manishmeganathan/go-moibit-client v0.0.2 h1:dMa8drj0a4mZqucTXFT0I5PyZr4tI/8sypPiM0pbYUQ=
+github.com/manishmeganathan/go-moibit-client v0.0.2/go.mod h1:8dyINDp1jUV2hPfr3dMHA2kqYZYBvtJXKQm1xBlkUlc=
+github.com/manishmeganathan/go-moibit-docstore v0.0.2 h1:hxl8KuSre1wZz7pADPxgS22qHp2PTL+CqrzGrvoswC0=
+github.com/manishmeganathan/go-moibit-docstore v0.0.2/go.mod h1:hdPndrUqCd1XWmFgdEUY/usaRgZRNKBxLSUXKnTiL6I=
+github.com/rs/cors v1.8.2 h1:KCooALfAYGs415Cwu5ABvv9n9509fSiG5SQJn/AQo4U=
+github.com/rs/cors v1.8.2/go.mod h1:XyqrcTp5zjWr1wsJ8PIRZssZ8b/WMcMf71DJnit4EMU=
